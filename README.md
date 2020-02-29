@@ -18,33 +18,38 @@
     </tr>
     <tr>
     <td>03</td>
+    <td>Jalaram Khichdi</td>
     <td>http://jalaramkhichdi.com/</td>
-    <td>https://khyatipadhiyar.github.io/website-template-0/</td>
     </tr>
     <tr>
     <td>04</td>
-    <td>Cool Double slider signin/up (inspired by Florin Pop) </td>
-    <td>https://khyatipadhiyar.github.io/signin_signup_slider/</td>
+    <td>Vidhisha Paper Mills PVT LTD</td>
+    <td>http://vidhishapaper.com/</td>
     </tr>
      <tr>
     <td>05</td>
-    <td>URL shortening landing page mobile responsive</td>
-    <td>https://khyatipadhiyar.github.io/URL-shortening-landing-page/</td>
+    <td>Aastha Dental Clinic</td>
+    <td>http://aasthadentalcare.com/</td>
     </tr>
     <tr>
     <td>06</td>
-    <td>fylo-dark-theme-landing-page-master mobile responsive</td>
-    <td>https://khyatipadhiyar.github.io/fylo-dark-theme-landing-page-master/</td>
+    <td>Navbharati Chemicals Private Limited</td>
+    <td>http://navbharati.co.in/</td>
     </tr>
     <tr>
     <td>07</td>
-    <td>bookmark-landing-page-master mobile responsive</td>
-    <td>https://khyatipadhiyar.github.io/bookmark-landing-page-master/</td>
+    <td>LEO Precision Products</td>
+    <td>http://www.leopp.in/</td>
     </tr>
     <tr>
     <td>08</td>
-    <td>manage-landing-page-master mobile responsive</td>
-    <td>https://khyatipadhiyar.github.io/manage-landing-page-master/</td>
+    <td>Usha Die Casting Industries</td>
+    <td>https://blowerfab.com/</td>
+    </tr>
+    <tr>
+    <td>09</td>
+    <td>Rudraa Digital Solution</td>
+    <td>http://swastikvalueaddition.com/</td>
     </tr>
   </tbody>
 </table>
