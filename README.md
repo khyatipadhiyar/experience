@@ -11,7 +11,7 @@
     <td>Ntheory Branding</td>
     <td>https://createbrands.co.in/</td>
     </tr>
-    tr>
+    <tr>
     <td>02</td>
     <td>Management Consultant</td>
     <td>https://greendot.co.in/</td>
